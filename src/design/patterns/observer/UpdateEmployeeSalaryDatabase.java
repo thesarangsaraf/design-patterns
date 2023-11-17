@@ -1,6 +1,6 @@
-package decorator;
+package design.patterns.observer;
 
-import decorator.abstraction.EmployeeSalaryChangeListener;
+import design.patterns.observer.abstraction.EmployeeSalaryChangeListener;
 
 public class UpdateEmployeeSalaryDatabase implements EmployeeSalaryChangeListener {
 

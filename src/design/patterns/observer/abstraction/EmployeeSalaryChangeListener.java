@@ -1,4 +1,4 @@
-package decorator.abstraction;
+package design.patterns.observer.abstraction;
 
 public interface EmployeeSalaryChangeListener {
 
